@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description/>
+        <name>global_search_configurations</name>
+        <page display_value="Safety Portal">57bb412ccd7130107f447fd7afbd0752</page>
+        <required_translations/>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2021-08-02 18:09:43</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>63bb412c45713010cd71b69234c414a0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>global_search_configurations</sys_name>
+        <sys_package display_value="Safety" source="x_snc_safety">333d5889ece1b0107f44876baa7ab39e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety">333d5889ece1b0107f44876baa7ab39e</sys_scope>
+        <sys_update_name>sys_ux_page_property_63bb412c45713010cd71b69234c414a0</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2021-08-02 18:09:43</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_snc_safety.57bb412ccd7130107f447fd7afbd0752.root.global_search_configurations</unique_name>
+        <value>{&#13;
+  "globalSearchContextConfigId": "00731b9d5b231010d9a5ce1a8581c7dd"&#13;
+}</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=63bb412c45713010cd71b69234c414a0"/>
+</record_update>

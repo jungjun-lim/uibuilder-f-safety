@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_screen">
+    <sys_ux_screen action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <app_config display_value="Safety Portal Config">5bbb412ccd7130107f447fd7afbd0752</app_config>
+        <description/>
+        <event_mappings>[ ]</event_mappings>
+        <macroponent display_value="Activity">ebbb412c02713010766a4e3000ad8d9f</macroponent>
+        <macroponent_config>{
+  "table" : "@context.props.table",
+  "sysId" : "@context.props.sysId",
+  "label" : "",
+  "bare" : true,
+  "scrollable" : "none",
+  "headerLevel" : "1",
+  "interceptNotifications" : false,
+  "propagateNotifications" : false
+}</macroponent_config>
+        <name>Activity Default</name>
+        <order>0</order>
+        <parent_macroponent display_value="Record Page(request)">e7bb412c98713010bb1002963d0b1388</parent_macroponent>
+        <required_translations>[]</required_translations>
+        <screen_condition/>
+        <screen_type display_value="Activity">23bb412c38713010cadabc5cf12afc89</screen_type>
+        <sys_class_name>sys_ux_screen</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2021-08-02 18:09:42</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>67bb412cd9713010d80474df9ca51ea1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Activity Default</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Safety" source="x_snc_safety">333d5889ece1b0107f44876baa7ab39e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety">333d5889ece1b0107f44876baa7ab39e</sys_scope>
+        <sys_update_name>sys_ux_screen_67bb412cd9713010d80474df9ca51ea1</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2021-08-02 18:09:42</sys_updated_on>
+    </sys_ux_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=67bb412cd9713010d80474df9ca51ea1"/>
+</record_update>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-09-13 16:00:30</sys_created_on>
+        <sys_id>6cf0c506e16230107f4472cd48e803a9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_safety_issue.x_snc_safety.Safety Admin</sys_name>
+        <sys_package display_value="Safety" source="x_snc_safety">333d5889ece1b0107f44876baa7ab39e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety">333d5889ece1b0107f44876baa7ab39e</sys_scope>
+        <sys_security_acl display_value="x_snc_safety_issue">24f0c506e16230107f4472cd48e803a7</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_6cf0c506e16230107f4472cd48e803a9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-09-13 16:00:30</sys_updated_on>
+        <sys_user_role display_value="x_snc_safety.safety_admin" name="x_snc_safety.safety_admin">a8f0c506e16230107f4472cd48e80390</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
